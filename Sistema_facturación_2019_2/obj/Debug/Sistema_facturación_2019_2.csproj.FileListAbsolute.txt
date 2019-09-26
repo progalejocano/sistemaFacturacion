@@ -1,0 +1,14 @@
+C:\Users\jaimeCano\source\repos\Sistema_facturación_2019_2\Sistema_facturación_2019_2\bin\Debug\Sistema_facturación_2019_2.exe.config
+C:\Users\jaimeCano\source\repos\Sistema_facturación_2019_2\Sistema_facturación_2019_2\bin\Debug\Sistema_facturación_2019_2.exe
+C:\Users\jaimeCano\source\repos\Sistema_facturación_2019_2\Sistema_facturación_2019_2\bin\Debug\Sistema_facturación_2019_2.pdb
+C:\Users\jaimeCano\source\repos\Sistema_facturación_2019_2\Sistema_facturación_2019_2\obj\Debug\Sistema_facturación_2019_2.csprojAssemblyReference.cache
+C:\Users\jaimeCano\source\repos\Sistema_facturación_2019_2\Sistema_facturación_2019_2\obj\Debug\Sistema_facturación_2019_2.Properties.Resources.resources
+C:\Users\jaimeCano\source\repos\Sistema_facturación_2019_2\Sistema_facturación_2019_2\obj\Debug\Sistema_facturación_2019_2.csproj.GenerateResource.cache
+C:\Users\jaimeCano\source\repos\Sistema_facturación_2019_2\Sistema_facturación_2019_2\obj\Debug\Sistema_facturación_2019_2.csproj.CoreCompileInputs.cache
+C:\Users\jaimeCano\source\repos\Sistema_facturación_2019_2\Sistema_facturación_2019_2\obj\Debug\Sistema_facturación_2019_2.exe
+C:\Users\jaimeCano\source\repos\Sistema_facturación_2019_2\Sistema_facturación_2019_2\obj\Debug\Sistema_facturación_2019_2.pdb
+C:\Users\jaimeCano\source\repos\Sistema_facturación_2019_2\Sistema_facturación_2019_2\obj\Debug\Sistema_facturación_2019_2.frmPrincipal.resources
+C:\Users\jaimeCano\source\repos\Sistema_facturación_2019_2\Sistema_facturación_2019_2\obj\Debug\Sistema_facturación_2019_2.frmclientes.resources
+C:\Users\jaimeCano\source\repos\Sistema_facturación_2019_2\Sistema_facturación_2019_2\obj\Debug\Sistema_facturación_2019_2.frmLogin.resources
+C:\Users\jaimeCano\source\repos\Sistema_facturación_2019_2\Sistema_facturación_2019_2\bin\Debug\MaterialSkin.dll
+C:\Users\jaimeCano\source\repos\Sistema_facturación_2019_2\Sistema_facturación_2019_2\obj\Debug\Sistema_facturación_2019_2.csproj.CopyComplete
